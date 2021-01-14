@@ -184,7 +184,7 @@ input[type=search]{
 /* side-bar */
 #side-bar{
     z-index: 3;
-    height: 100vh;
+    height: 95vh;
     width: 300px;
     position: fixed;
     left: 0;
