@@ -8,7 +8,7 @@ https://todolist-taskplanner.herokuapp.com/
 
 **Technoligies:**
  - Django python web framework
- - html/css
+ - html/css (Responsive)
  - javascript
  - postgresql
  
