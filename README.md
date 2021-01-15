@@ -2,7 +2,7 @@
 
 TodoList is a webapp that let's users create and schedule tasks and create custom lists.
 
-Live preview (signup required):
+**Live preview** (signup required):
 https://todolist-taskplanner.herokuapp.com/
 
 
