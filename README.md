@@ -1,17 +1,14 @@
-## TodoList Webapp
+## TaskPlanner Webapp
+<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-TodoList is a webapp that let's users create and schedule tasks and create custom lists.
+
+TaskPlanner is a Web App that lets users manage and organize daily or weekly tasks, Create reminders and calendar events and create custom to-do lists.
 
 **Live preview** (signup required):
 https://todolist-taskplanner.herokuapp.com/
 
 
-**Technoligies:**
- - Django python web framework
- - html/css (Responsive)
- - javascript
- - postgresql
- 
  ## Setup
 
 The first thing to do is to clone the repository:
